@@ -1,0 +1,102 @@
+/* .header CSS */
+.headerofassign{
+    text-align: right;
+    background-image: url(./images/banner/banner1.png);
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.headerofassigntwo{
+    margin-left: 500px;
+    padding-right: 100px;
+    padding-top: 300px;
+}
+.buttonfirst{
+background-color: orangered;
+border-radius: 10%;
+height: 40px;
+width: 100px;
+color: white;
+}
+/* sectionfirst */
+ul{
+    list-style: none;
+    list-style-type: '\2713';
+}
+.sectionone{
+    display: flex;
+    justify-content: space-around;
+
+}
+.sectionclass{
+    padding-top: 300px;
+}
+/* sectiontwo */
+.sectiontwo{
+    font-size: 50px;
+    text-align: center;
+}
+.sectionwtwoby{
+    display: flex;
+    justify-content: space-around;
+}
+.buttonsecond{
+    background-color: white;
+    color: orangered;
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+}
+/* finalsecton */
+.finalsection{
+    background-image: url(./images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 70%;
+margin-left: 200px;
+
+}
+.sectionthree{
+font-weight: 50px;
+
+}
+.sectionlast{
+    margin-left: 50px;
+    padding-top: 50px;
+    color: black;
+    font-size: 20px;
+}
+/* .footer */
+.footerimg{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+footer{
+    background-color: black;
+}
+.footertext{
+    color: white;
+    margin-left: 100px;
+    padding: 50px;
+}
+.lastfooter{
+    color: white;
+    margin-top: 70px;
+    margin-right: 100px;
+}
+.onenonly{
+    display: flex;
+    justify-content: space-around;
+}
+.formfooter{
+    background-color: transparent;
+    color: blue;
+    width: 60px;
+}
