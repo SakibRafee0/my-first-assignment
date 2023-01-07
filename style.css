@@ -11,6 +11,7 @@
     padding-right: 100px;
     padding-top: 300px;
 }
+
 .buttonfirst{
 background-color: orangered;
 border-radius: 10%;
@@ -68,6 +69,21 @@ font-weight: 50px;
     color: black;
     font-size: 20px;
 }
+/* .bonus */
+.bonussection{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.icando{
+    background-color: rgba(47, 79, 79, 0.256);
+}
+.bonusjpg{
+    height: 401px;
+    width: 450px;
+}
+
 /* .footer */
 .footerimg{
     display: flex;
