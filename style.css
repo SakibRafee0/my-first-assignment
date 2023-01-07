@@ -93,6 +93,7 @@ font-weight: 50px;
     margin-left: 100px;
     padding-left: 50px;
     padding-bottom: 50px;
+    justify-content: space-around;
 }
 footer{
     background-color: black;
